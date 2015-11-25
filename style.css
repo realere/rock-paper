@@ -1,0 +1,13 @@
+/*body {
+  background-image: url (https://static.artfire.com/uploads/products/2015/02/19/e0/11155651/large/rock_paper_scissor_lizard_spock_big_bang_theory_clothing_geek_tshirt_t-shirt_funny_humor_girls_men_ladies_unisex_tee_shirt_present_star_trek_daa04083.jpg);
+}*/
+body {
+  background-image: url(rock_paper_scissor_lizard_spock_big_bang_theory_clothing_geek_tshirt_t-shirt_funny_humor_girls_men_ladies_unisex_tee_shirt_present_star_trek_daa04083.jpg);
+  font-family: 'Lucida Sans Unicode', 'Arial', serif;
+  color: white;
+}
+
+/*header {
+  background: url("https://static.artfire.com/uploads/products/2015/02/19/e0/11155651/large/rock_paper_scissor_lizard_spock_big_bang_theory_clothing_geek_tshirt_t-shirt_funny_humor_girls_men_ladies_unisex_tee_shirt_present_star_trek_daa04083.jpg") no-repeat fixed center / cover;
+  text-align: center;
+}*/
